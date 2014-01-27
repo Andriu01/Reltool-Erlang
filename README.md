@@ -1,4 +1,4 @@
-Reltool-Erlang
+Rebar-Erlang
 ==============
 
 Project about rebar for subject programming in erlang
